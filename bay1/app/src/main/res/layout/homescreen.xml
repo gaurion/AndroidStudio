@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <SurfaceView
+        android:layout_height="475dp"
+        android:id="@+id/surfaceView"
+        android:background="@drawable/back"
+        android:layout_width="match_parent">
+
+
+    </SurfaceView>
+
+    <Button
+        android:id="@+id/idbtn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#7EC0EE"
+        android:onClick="btnClick"
+        android:text="Having Pain,Contact your dear once."
+        android:layout_gravity="center_vertical"
+
+        android:layout_below="@+id/surfaceView" />/>
+</RelativeLayout>

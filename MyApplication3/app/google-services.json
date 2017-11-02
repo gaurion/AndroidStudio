@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "305809350421",
+    "firebase_url": "https://myfirebasedemoapp-b2eda.firebaseio.com",
+    "project_id": "myfirebasedemoapp-b2eda",
+    "storage_bucket": "myfirebasedemoapp-b2eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305809350421:android:06b4a4ac2b8d470c",
+        "android_client_info": {
+          "package_name": "com.example.bumblebee.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305809350421-n0a1kqfl489cima12jhnm5h7fd4jk24p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgbSRCIVkJQrd4SPsNDv9S0cgR3IpLcAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

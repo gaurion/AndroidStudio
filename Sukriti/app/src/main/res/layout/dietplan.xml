@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context="com.example.aakashtrivedi.sukriti.dietplan">
+
+    <TextView
+        android:layout_width="368dp"
+        android:layout_height="550dp"
+        android:text="\n     Breakfast :
+     \n         Bread with Jam/Butter
+     \n         2 Egg Whites
+     \n         1 Glass of Milk
+
+   \n\n     Lunch :
+     \n         2 Roti wih Vegetables
+     \n         Some cooked Rice
+     \n         1 cup of Butter Milk
+
+   \n\n     Snacks :
+     \n         Bread with Butter/Jam
+     \n         Few Biscuits
+
+    \n\n     Dinner :
+     \n         Noodles
+     \n         1 Glass of Warm milk"
+        android:textSize="25dp"
+        android:id="@+id/plan1"
+        android:textColor="#B7220D"
+        />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="Home" />
+        <item
+            android:id="@+id/login"
+            android:icon="@android:drawable/ic_lock_lock"
+            android:title="Login" />
+        <item
+            android:id="@+id/planner"
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:title="Planner" />
+        <item
+            android:id="@+id/dietplan"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="Diet plan" />
+        <item
+            android:id="@+id/emergencycontact"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="Emergency Contact" />
+        <item
+            android:id="@+id/gynic"
+            android:icon="@android:drawable/stat_sys_headset"
+
+            android:title="Gynacologists" />
+        <item
+            android:id="@+id/aboutus"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="About Us" />
+    </group>
+
+
+
+
+</menu>

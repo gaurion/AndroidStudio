@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+    android:background="@drawable/back"
+    >
+
+<ImageView
+    android:id="@+id/imageView_care"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:src="@drawable/care"
+    android:layout_gravity="center"
+    android:layout_marginTop="45dp"
+    />
+
+<TextView
+    android:id="@+id/textView_care"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="About Us::"
+    android:textStyle="bold"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:textColor="#1F1482"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView_care"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Here is a app out of our general concern for ladies that face difficult times at the end off every month.We understand your role in our life is very important.So here something that would help you."
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColor="#1F1482"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>
+

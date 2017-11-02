@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="
+Dr. Anjana Singh- Gynaecologist Vaishali, Kaushambi
+Remove
+Details from Google Maps
+Department Of Obstetrician and Gynaecologist, 3rd Floor, Max Super Specialty Hospital, W-3, Sector 1, Vaishali, Block C, Kamma 2, Vaishali, Ghaziabad, Uttar Pradesh 201012, India
+www.maxhealthcare.in
++91 98181 53475
+View in Google Maps"
+    android:textAppearance="?android:attr/textAppearanceLarge" />
